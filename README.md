@@ -1,6 +1,5 @@
-# create-kubernetes-cluster
+# Create your Kubernetes cluster with Ansible-Playbook and Kubespray
 
-*Create you Kubernetes Ccluster with Ansible-Playbook and Kubespray
 
 *Apply internal prometheus server and get logs on selected node
 
